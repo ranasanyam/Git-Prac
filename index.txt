@@ -1,1 +1,2 @@
-This is first file in my our git repo
+This is first file in my our git repo.
+Doing some change to see it is working or not.
